@@ -1,6 +1,11 @@
 This is a test for github
 <<<<<<< HEAD
+<<<<<<< HEAD
 buy
+=======
+
+this a new edition.
+>>>>>>> 0a02bf8f066de288f6046e0015404564edf015fe
 =======
 
 this a new edition.
